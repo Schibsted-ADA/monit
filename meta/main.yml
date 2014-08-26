@@ -1,13 +1,13 @@
 ---
 dependencies: []
 galaxy_info:
-  author: Erlend Hamnaberg, Jordi Arnavat
-  company: Schibsted ASA
-  license: MIT
-  min_ansible_version: 1.2
+  author: "Erlend Hamnaberg, Jordi Arnavat"
+  company: "Schibsted ASA"
+  license: "MIT"
+  min_ansible_version: "1.2"
   platforms:
-    - name: Ubuntu
+    - name: "Ubuntu"
       versions:
-       - all
+       - "all"
   categories:
     - system
