@@ -35,3 +35,10 @@ License
 -------
 
 MIT
+
+Author Information
+------------------
+
+* Erlend Hamnaberg (github.com/hamnis, twitter.com/hamnis)
+* Jordi Arnavat (github.com/acjzz, twitter.com/acjzz)
+
